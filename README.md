@@ -11,4 +11,8 @@ To utilize APIs:
 
 This small webpage is suggesting users the movies to watch. When the user clicks on the suggest me a movie button, it displays one movie. When the user refreshes and click again, it shows a different movie.
 
+Here is the link to the API that I used in this assignment. Credits goes to API of Ice and Fire.
+
+https://anapioficeandfire.com/api/characters/583
+
 Author: Tuyishime Johnson
