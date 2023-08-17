@@ -9,5 +9,6 @@ To utilize APIs:
 3. Connecting that API with the JavaScript file to handle the API call and the integration with the HTML.
 4. Finally you have to ensure whether the API is working
 
+This small webpage is suggesting users the movies to watch. When the user clicks on the suggest me a movie button, it displays one movie. When the user refreshes and click again, it shows a different movie.
 
-Author: Tuyishime Johnson.
+Author: Tuyishime Johnson
